@@ -1,0 +1,25 @@
+.form{
+    display: flex;
+    justify-content: center;
+}
+
+.songForm{
+    width: max-content;
+    background-color: dimgray;
+    padding: 4px;
+    color: white;
+}
+.uploadForm{
+    width: 312px;
+}
+.uploadForm input{
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+}
+.uploadForm .button{
+    width: 120px;
+    padding: 8px;
+    margin-top: 10px;
+    cursor: pointer;
+}
